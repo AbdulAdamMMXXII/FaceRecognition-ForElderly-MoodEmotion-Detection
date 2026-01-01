@@ -52,7 +52,7 @@ Implementation, testing, and evaluation are ongoing.
 - The project follows BCU ethical research guidelines
 
 ## Author
-**Abdul Adam**  
+**Abdulrazig Adam**  
 BSc Computer Science  
 Birmingham City University  
 
