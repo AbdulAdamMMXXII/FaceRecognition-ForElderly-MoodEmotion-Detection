@@ -1,4 +1,3 @@
-# FaceRecognition-ForElderly-MoodEmotion-Detection
 # Facial Recognition and Mood Detection for Elderly Well-Being
 
 ## Overview
