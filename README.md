@@ -42,8 +42,8 @@ The system combines computer vision, machine learning and cloud-native architect
 
 ## Project Status
 This project is **currently in development**.  
-Core research, system design, and literature review have been completed.  
-Implementation, testing, and evaluation are ongoing.
+Core research, system design and literature review have been completed.  
+Implementation, testing and evaluation are ongoing.
 
 ## Ethical Considerations
 - No raw facial images are permanently stored
@@ -53,7 +53,7 @@ Implementation, testing, and evaluation are ongoing.
 
 ## Author
 **Abdulrazig Adam**  
-BSc Computer Science  
+BSc Computer Science | FYP
 Birmingham City University  
 
 ## Disclaimer
