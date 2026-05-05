@@ -292,5 +292,4 @@ firebase deploy --only functions
 
 ## Author
 **Abdulrazig Adam**  
-BSc Computer Science | FYP
-Birmingham City University  
+BSc Computer Science with Honours (FYP) | Birmingham City University  
