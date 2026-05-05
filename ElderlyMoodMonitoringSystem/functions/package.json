@@ -1,0 +1,20 @@
+{
+  "name": "empathy-monitor-functions",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test:llm-trigger": "node test_llm_trigger.js",
+    "test:gemini-direct": "node test_gemini_direct.js"
+  },
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "firebase-admin": "^11.0.0",
+    "firebase-functions": "^7.0.6",
+    "nodemailer": "^6.9.1",
+    "pdfkit": "^0.13.0"
+  }
+}

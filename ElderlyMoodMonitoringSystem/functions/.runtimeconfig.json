@@ -1,0 +1,17 @@
+{
+  "app": {
+    "host": "https://elderly-mood-monitoring.web.app"
+  },
+  "smtp": {
+    "pass": "your-app-password-here",
+    "port": "587",
+    "secure": "false",
+    "from": "noreply@elderly-mood-monitoring.firebaseapp.com",
+    "host": "smtp.gmail.com",
+    "user": "your-email@gmail.com"
+  },
+  "gemini": {
+    "key": "your-gemini-api-key-here",
+    "model": "gemini-2.5-flash"
+  }
+}
